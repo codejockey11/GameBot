@@ -1,0 +1,20 @@
+20:33:19 - CBotClient::InitializeWinsock::WSAStartup:WinSock 2.0
+20:33:20 - CBotClient::CreateSocket::hostname:HP-Pavilion
+20:33:20 - CBotClient_ReceiveThread:Starting
+20:33:20 - CBotClient_Chat:Connection accepted
+20:33:21 - CBotClient_LoadEnvironment::terrain\vertices.txt
+20:33:21 - CBotClient_Enter:Bot01
+20:33:21 - CBotClient_Chat:Bot01 entered
+20:37:24 - CBotClient_Enter:Steve
+20:37:24 - CBotClient_Chat:Steve entered
+20:37:46 - CBotClient_ClientAttack:Steve
+20:37:47 - CBotClient_ClientAttack:Steve
+20:37:48 - CBotClient_ClientAttack:Steve
+20:37:48 - CBotClient_ClientAttack:Steve
+20:37:49 - CBotClient_ClientAttack:Steve
+20:37:50 - CBotClient_ClientAttack:Steve
+20:37:52 - CBotClient_ClientAttack:Steve
+20:37:52 - CBotClient_ClientAttack:Steve
+20:38:13 - CBotClient_Enter:Steve
+20:38:13 - CBotClient_Chat:Steve entered
+20:38:18 - CBotClient_ReceiveThread Ending
